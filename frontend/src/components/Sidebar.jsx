@@ -5,6 +5,7 @@ const links = [
   { path: '/sales', label: 'Sales', icon: '💰' },
   { path: '/inventory', label: 'Inventory', icon: '📦' },
   { path: '/logistics', label: 'Logistics', icon: '🚚' },
+  { path: '/analytics', label: 'AI Analytics', icon: '🤖' },
 ]
 
 const Sidebar = () => {
